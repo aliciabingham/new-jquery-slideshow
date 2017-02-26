@@ -6,5 +6,5 @@ This slide show is a simple, modular, jQuery slideshow. It can be implemented in
 
 This is part of a project to create fun website "widgets" that can be easily implemented to make a website more fun. 
 
-#Contributor
+###Contributor
 <a href="mailto:akb.miceli@gmail.com">Alicia Miceli</a>
