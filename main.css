@@ -1,0 +1,71 @@
+body {
+
+	background-color: black;
+}
+
+img {
+	width: 600px;
+	height: 800px;
+}
+
+.slideshow {
+	width: 600px;
+	height: 800px;
+	margin: 0 auto;
+}
+
+
+#img1 {
+	position: absolute;
+	z-index: 7
+}
+
+#img2 {
+	position: absolute;
+	z-index: 6;
+}
+
+#img3 {
+	position: absolute;
+	z-index: 5;
+}
+
+#img4 {
+	position: absolute;
+	z-index: 4;
+}
+
+#img5 {
+	position: absolute;
+	z-index: 3;
+}
+
+#img6 {
+	position: absolute;
+	z-index: 2;
+}
+
+#img7 {
+	position: absolute;
+	z-index: 1;
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
